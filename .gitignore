@@ -1,0 +1,4 @@
+### IOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
