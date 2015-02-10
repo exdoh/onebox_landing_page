@@ -551,6 +551,14 @@ label {
 	.service-block, .img-responsive, .carousel, .content-block {
 		margin-bottom: 80px;
 	}
+	#parallax {
+  		height: 680px;
+  		width: 100%;
+  		position: fixed;
+  		background: url('../../demo/home_alt.jpg') center center no-repeat; 
+  		background-size: cover;
+  		z-index: -100;
+	}
 }
 @media (max-width: 768px) {
 	body {
